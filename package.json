@@ -1,0 +1,19 @@
+{
+  "name": "kickfly-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "stripe": "^14.18.0",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "date-fns": "^3.3.1"
+  }
+}
